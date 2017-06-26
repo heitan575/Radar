@@ -1,5 +1,5 @@
 //
-//  Radar.h
+//  AppDelegate.h
 //  Radar
 //
 //  Created by 黑炭 on 2017/6/26.
@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Radar : UIView
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
 
 @end
+

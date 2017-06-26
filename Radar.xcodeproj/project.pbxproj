@@ -15,6 +15,7 @@
 		34E34D121F009B0000E177A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34E34D101F009B0000E177A2 /* LaunchScreen.storyboard */; };
 		34E34D1D1F009B0100E177A2 /* RadarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E34D1C1F009B0100E177A2 /* RadarTests.m */; };
 		34E34D281F009B0100E177A2 /* RadarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E34D271F009B0100E177A2 /* RadarUITests.m */; };
+		34E34D371F009B1200E177A2 /* Radar.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E34D361F009B1200E177A2 /* Radar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		34E34D231F009B0100E177A2 /* RadarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RadarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34E34D271F009B0100E177A2 /* RadarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RadarUITests.m; sourceTree = "<group>"; };
 		34E34D291F009B0100E177A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34E34D351F009B1200E177A2 /* Radar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Radar.h; sourceTree = "<group>"; };
+		34E34D361F009B1200E177A2 /* Radar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Radar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				34E34D081F009B0000E177A2 /* ViewController.h */,
 				34E34D091F009B0000E177A2 /* ViewController.m */,
 				34E34D0B1F009B0000E177A2 /* Main.storyboard */,
+				34E34D351F009B1200E177A2 /* Radar.h */,
+				34E34D361F009B1200E177A2 /* Radar.m */,
 				34E34D0E1F009B0000E177A2 /* Assets.xcassets */,
 				34E34D101F009B0000E177A2 /* LaunchScreen.storyboard */,
 				34E34D131F009B0000E177A2 /* Info.plist */,
@@ -276,6 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34E34D371F009B1200E177A2 /* Radar.m in Sources */,
 				34E34D0A1F009B0000E177A2 /* ViewController.m in Sources */,
 				34E34D071F009B0000E177A2 /* AppDelegate.m in Sources */,
 				34E34D041F009B0000E177A2 /* main.m in Sources */,

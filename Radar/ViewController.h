@@ -1,5 +1,5 @@
 //
-//  Radar.h
+//  ViewController.h
 //  Radar
 //
 //  Created by 黑炭 on 2017/6/26.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Radar : UIView
+@interface ViewController : UIViewController
+
 
 @end
+
