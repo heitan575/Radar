@@ -15,3 +15,5 @@ iOS 雷达纹波效果
     sy：y 轴放大倍数
     
 文件参考的别人代码，只是刚好用到整理一下，备份一下。谢谢~
+
+https://github.com/heitan575/Radar/blob/master/image.jpeg
